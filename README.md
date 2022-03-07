@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sohom-chatterjee2002
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to secure a challenging position in a reputable organization to expand my learning, knowledge & skills.
+- 📫 How to reach me : Email: sohom.kalitala@gmail.com
+- 
 
 <!---
 Sohom-chatterjee2002/Sohom-chatterjee2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
