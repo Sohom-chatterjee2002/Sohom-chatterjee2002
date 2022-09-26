@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sohom-chatterjee2002
 - 👨‍🎓 I'm a student of Computer Science & Engineering	🧑‍💻
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Java Development
 - 💞️ I’m looking to secure a challenging position in a reputable organization to expand my learning, knowledge & skills.
 - 📫 How to reach me : Email: sohom.kalitala@gmail.com
 - 
